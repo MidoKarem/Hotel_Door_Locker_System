@@ -12,7 +12,7 @@
 
 
 
-#System Components
+# System Components
 ATmega32
 LCD
 Keypad
