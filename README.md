@@ -13,7 +13,7 @@
 
 
 # System Components
-ATmega32__
-LCD__
-Keypad__
-Buzzer__
+ATmega32 <br />
+LCD <br />
+Keypa <br />
+Buzzer <br />
